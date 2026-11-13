@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#E60023"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F7F9"
+textColor = "#17283D"
+baseRadius = "none"
+buttonRadius = "none"
+
+[client]
+toolbarMode = "minimal"
